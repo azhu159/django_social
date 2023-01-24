@@ -148,4 +148,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ALLOW_ALL_ORIGINS = True 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-10c2.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-10c2.up.railway.app']
